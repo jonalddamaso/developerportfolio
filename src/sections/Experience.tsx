@@ -20,10 +20,8 @@ function Experience() {
       start: "January 2023",
       end: "May 2023",
       shortDescription: [
-        "I had experience working on a large codebase utilizing Kibana and Elasticsearch.",
-        "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, TypeScript, Node.js, Hapi, and Elasticsearch, among others.",
-        "I've also managed a small team that includes Frontend Developers, Backend Developers, and UI/UX Developers.",
-        "Additionally, I've represented the company in client meetings, communicating effectively on their behalf.",
+        "I had experience working on a ______.",
+        "Throughout my work, I've utilized various stack technologies, including React, Redux, TypeScript, Node.js, among others.",
       ],
     },
     {
