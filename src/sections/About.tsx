@@ -30,7 +30,7 @@ function About() {
           <p className="about-grid-info-text">
             Hi there! My name is Jonald, and I am passionate about creating
             digital content for the web. My interest in web development was
-            sparked in 2018 when I created my first project called Christine's Garden, an
+            sparked in 2018 when I created my first project called Christine&apos;s Garden, an
             e-commerce website built using Php Larvel Framework.
           </p>
           <p className="about-grid-info-text">
@@ -39,7 +39,7 @@ function About() {
           internship with a travel and media
           company. I am proud to have collaborated
           with the project leader on the design and
-          functionality updates on the company’s
+          functionality updates on the company&apos;s
           various websites using PHP, Bootstrap,
           HTML5, CSS3 and WordPress.
           </p>
@@ -63,7 +63,7 @@ function About() {
             frontend development skills with the modern technologies.
           </p>
           <p className="about-grid-info-text">
-            Here are a few technologies I’ve been working with recently:
+            Here are a few technologies I&apos;ve been working with recently:
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">React</li>
