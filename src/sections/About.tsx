@@ -51,7 +51,7 @@ function About() {
 
           </p>
           <p className="about-grid-info-text">
-            Fastword today, I completed the &nbsp;
+            Fastforward today, I completed the &nbsp;
             <Link
               className="link"
               target="_blank"
