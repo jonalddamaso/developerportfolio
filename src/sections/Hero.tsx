@@ -74,7 +74,11 @@ function Hero() {
           text="Connect with me"
           link="https://www.linkedin.com/in/jonalddamaso/"
         />
+<<<<<<< HEAD
         {/* <button className="btn" onClick={() => setIsOpen(true)}>Connect with me</button>
+=======
+<!--         <button className="btn" onClick={() => setIsOpen(true)}>Connect with me</button>
+>>>>>>> c2172424a4feb348549db440f614b324e3ad433b
         
         <Modal open={isOpen} onClose={() => setIsOpen(false)}>
           <h4 className="contact-sub-title">Check out my social media accounts for more info!</h4>
@@ -85,7 +89,11 @@ function Hero() {
             <FiLinkedin /><label> LinkedIn Account</label>
           </a>
               
+<<<<<<< HEAD
         </Modal> */}
+=======
+        </Modal> -->
+>>>>>>> c2172424a4feb348549db440f614b324e3ad433b
 
       </motion.div>
     </div>
