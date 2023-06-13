@@ -73,11 +73,11 @@ function Hero() {
           delay: 1.65,
         }}
       >
-        {/* <Button
+        <Button
           text="Connect with me"
-          link="/#contact"
-        /> */}
-        <button className="btn" onClick={() => setIsOpen(true)}>Connect with me</button>
+          link="https://www.linkedin.com/in/jonalddamaso/"
+        />
+<!--         <button className="btn" onClick={() => setIsOpen(true)}>Connect with me</button>
         
         <Modal open={isOpen} onClose={() => setIsOpen(false)}>
           <h4 className="contact-sub-title">Check out my social media accounts for more info!</h4>
@@ -88,7 +88,7 @@ function Hero() {
             <FiLinkedin /><label> LinkedIn Account</label>
           </a>
               
-        </Modal>
+        </Modal> -->
 
       </motion.div>
     </div>
