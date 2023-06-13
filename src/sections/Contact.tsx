@@ -22,7 +22,7 @@ function Contact() {
         is always open. 
       </p>
       <div className="contact-cta">
-        <Button link="mailto:damasojonald@gmail.com" text="Say Hello" />
+        <Button link="mailto:damasojonald@gmail.com" text="Say Hello" target="_blank"/>
       </div>
     </motion.div>
   );
