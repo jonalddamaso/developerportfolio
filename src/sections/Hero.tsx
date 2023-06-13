@@ -1,7 +1,4 @@
 import Button from "@/components/Button";
-import { FiGithub, FiLinkedin } from "react-icons/fi";
-import Modal from "@/components/Modal";
-import SocialIcons from "@/components/SocialIcons";
 import Link from "next/link";
 import React, { useState } from "react";
 import { motion } from "framer-motion";
@@ -73,11 +70,11 @@ function Hero() {
           delay: 1.65,
         }}
       >
-        {/* <Button
+        <Button
           text="Connect with me"
-          link="/#contact"
-        /> */}
-        <button className="btn" onClick={() => setIsOpen(true)}>Connect with me</button>
+          link="https://www.linkedin.com/in/jonalddamaso/"
+        />
+        {/* <button className="btn" onClick={() => setIsOpen(true)}>Connect with me</button>
         
         <Modal open={isOpen} onClose={() => setIsOpen(false)}>
           <h4 className="contact-sub-title">Check out my social media accounts for more info!</h4>
@@ -88,7 +85,7 @@ function Hero() {
             <FiLinkedin /><label> LinkedIn Account</label>
           </a>
               
-        </Modal>
+        </Modal> */}
 
       </motion.div>
     </div>
