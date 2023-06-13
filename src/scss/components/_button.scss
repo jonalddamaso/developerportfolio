@@ -13,3 +13,18 @@
     background-color: var(--lightest-navy);
   }
 }
+.btn-close {
+  color: var(--theme-color);
+  padding: 0.75em 0.75em;
+  text-decoration: none;
+  border: 1px solid var(--theme-color);
+  border-radius: 4px;
+  background-color: transparent;
+  font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace;
+  font-size: var(--tsm);
+  outline: none;
+  &:hover,
+  &:focus {
+    background-color: var(--lightest-navy);
+  }
+}

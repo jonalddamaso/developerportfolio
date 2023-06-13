@@ -35,6 +35,16 @@
       font-size: var(--tsm1);
     }
   }
+  .contact-sub-title {
+    font-size: var(--tlarge);
+    font-family: var(--raleway);
+    color: var(--light-slate);
+    padding-bottom: 2rem;
+  }
+  a {
+    flex-direction: column;
+  }
+  
   @media screen and (max-width: 768px) {
     &-text {
       width: 90%;

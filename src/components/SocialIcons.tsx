@@ -12,7 +12,7 @@ function SocialIcons() {
     {
       name: "LinkedIn",
       icon: <FiLinkedin />,
-      link: "linkedin.com/in/jonalddamaso",
+      link: "https://www.linkedin.com/in/jonalddamaso/",
     },
     
   ];
