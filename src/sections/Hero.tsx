@@ -42,7 +42,7 @@ function Hero() {
           delay: 1.05,
         }}
       >
-        I craft things for the web.
+        web developer.
       </motion.h3>
       <motion.p
         className="hero-text"
@@ -56,7 +56,7 @@ function Hero() {
       >
         I&apos;m a passionate web developer with a knack
          for creating stunning and intuitive online experiences. 
-         With a deep understanding of HTML, CSS, and JavaScript, 
+         With a deep understanding of HTML, CSS, and JavaScript. 
          I specialize in crafting responsive and user-friendly websites 
          that leave a lasting impression.
       </motion.p>

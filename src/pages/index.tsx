@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Email from "@/components/Email";
 import Loader from "@/components/Loader";
 import SocialIcons from "@/components/SocialIcons";
 import Footer from "@/sections/Footer";
@@ -30,7 +29,7 @@ function Index() {
         <>
           <Navbar />
           <SocialIcons />
-          <Email />
+          
           <main>
             <Hero />
             <About />
