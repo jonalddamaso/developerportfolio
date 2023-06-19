@@ -20,8 +20,9 @@ function Experience() {
       start: "January 2023",
       end: "May 2023",
       shortDescription: [
-        "I had experience working on a ______.",
-        "Throughout my work, I've utilized various stack technologies, including React, Redux, TypeScript, Node.js, among others.",
+        "Completed an upskilling course which focused on advanced Javascript, Typescript, React, Unit Testing using Jest and Test-Driven Development, as well as career and mindset workshops.",
+        "Created user responsive interface that allow same user experience on any device; and user experience that fetched data and relayed it to React components.",
+        "Key projects include Mars Rover, a programme that moves rovers around using Typescript; and Team Popcorn, a Typescript/React API website that allows users to search for movies, actors and trailers"
       ],
     },
     {
