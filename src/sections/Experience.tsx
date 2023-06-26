@@ -15,7 +15,7 @@ function Experience() {
   const expereinces = [
     {
       name: "Tech Returners",
-      role: "Software Engineer - Apprencticeship",
+      role: "Software Engineer - Upskilling",
       url: "https://www.techreturners.com/",
       start: "January 2023",
       end: "May 2023",
